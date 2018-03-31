@@ -425,7 +425,6 @@ An updated and curated list of selected readings to illustrate High Scalability,
 
 ## Architectures
 * [Architecture of Tripod (Flickr’s Backend)](https://yahooeng.tumblr.com/post/157200523046/introducing-tripod-flickrs-backend-refactored)
-* [Architecture of SurveyMonkey](https://engineering.surveymonkey.com/2016/04/09/the-architecture-behind-surveymonkey/)
 * [Architecture of Data Platform at Flipkart](https://tech.flipkart.com/overview-of-flipkart-data-platform-20c6d3e9a196)
 * [Architecture of Data Infrastructure at GO-JEK](https://blog.gojekengineering.com/data-infrastructure-at-go-jek-cd4dc8cbd929)
 * [Architecture of Stack Overflow Enterprise at Palantir](https://medium.com/@palantir/terraforming-stack-overflow-enterprise-in-aws-47ee431e6be7)
